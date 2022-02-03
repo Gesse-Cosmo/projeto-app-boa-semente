@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(246, 255, 119);
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+a {
+    text-decoration: none;
+}
+
+p#voltar {
+    color: rgb(37, 141, 42);
+}
+
+p#voltar:hover {
+    color: rgb(236, 118, 6);
+}
+
+
